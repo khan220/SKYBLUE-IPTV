@@ -1,0 +1,204 @@
+#EXTM3U 
+#EXTINF:-1,SkyBlue IPTV
+https://cdn.pixabay.com/video/2025/12/10/321012.mp4?
+
+#EXTINF:0,Logos Tv HD
+https://streamer1.streamhost.org/salive/logosH/chunklist.m3u8
+#EXTINF:0,Logos Tv Kids
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist.m3u8
+#EXTINF:0,Kuriakos Tv HD
+https://w1.manasat.com/ktv/smil:ktv.smil/chunklist.m3u8
+#EXTINF:0,Tv Man-1 HD
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist.m3u8
+#EXTINF:0,Tv Man-2 HD
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist.m3u8
+#EXTINF:0,Tv Man English HD
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist.m3u8
+#EXTINF:0,Tv Man ol HD
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/chunklist.m3u8
+#EXTINF:0,Tv Maa Vash HD
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/chunklist.m3u8
+#EXTINF:0,Urola Telebista
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/chunklist.m3u8
+#EXTINF:0,Famypanc Tv
+https://panel.host-live.com:19360/8042/8042.m3u8
+#EXTINF:0, Punt
+https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/profile_0/chunklist_dvr.m3u8
+#EXTINF:0,Onda Algeciras Tv
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:0,Tv Arte Quatre
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:0,Super Turk
+http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+#EXTINF:0,Tv Den
+https://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:0,Zarok Tv
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:0,Zarok Tv Sorani
+https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:0,Primo Canale HD
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/chunklist.m3u8
+#EXTINF:0,Apa Tv
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0,Alvin Channel
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist.m3u8
+#EXTINF:0,EL Tv
+https://live.eltv.az/live/eltv/chunklist_w290052485.m3u8
+#EXTINF:0,Vilayet Tv
+https://nl.livekadeh.com/hls2/vilayet_src.m3u8
+#EXTINF:0,Astrakhan Ru Sport HD
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.ts.m3u8
+#EXTINF:0,ATv HD - Azad Tv HD
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:0,Persiana Sports 1
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:0,Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana+
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana T&#252;rkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Reality
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Esfa Tv Haber HD
+https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,KN Tv HD
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Azerbaijan Music Hit HD
+https://cdn4.yayin.com.tr/musicazhit/tracks-v1a1/mono.m3u8
+#EXTINF:0,Activa Tv
+https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8
+#EXTINF:0,Guia Tv Brasil HD
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist.m3u8
+#EXTINF:0,Canal Gov
+https://canalgov-stream.ebc.com.br/GOV.m3u8
+#EXTINF:0,Hallo! Classic
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
+#EXTINF:0,Hallo! Series
+https://cdn-3.nxplay.com.br/HALLOSERIES/index.m3u8
+#EXTINF:0,Hallo! Anime
+https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
+#EXTINF:0,Hallo! Doc.
+https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
+#EXTINF:0,Hallo! Movies
+https://cdn-3.nxplay.com.br/HALLOMOVIES/index.m3u8
+#EXTINF:0,Hallo! Music
+https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
+#EXTINF:0,Tv One
+https://video02.logicahost.com.br/tvone/tvone/chunklist.m3u8
+#EXTINF:0,Tv Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:0,Tv Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist.m3u8
+#EXTINF:0,HD 365 Tv
+https://testcam.go.ro:8080/hls/hd365.m3u8
+
+https://streamlov.alsolnet.com/lapuracrema/live/chunklist.m3u8
+#EXTINF:0,Canal 72
+https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
+#EXTINF:0,Canal 34 San Juan
+https://streamyes.alsolnet.com/canal34hd/live/chunklist.m3u8
+#EXTINF:0,Canal 26 Telemax HD
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+#EXTINF:0,Canal 22 Web HD
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/chunklist.m3u8
+#EXTINF:0,Canal 13 Jujuy
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:0,Canal 9 Litoral HD
+https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/chunklist.m3u8
+#EXTINF:0,Canal 9 Santa Cruz HD
+https://stmv4.voxtvhd.com.br/lu85tvcanal9/lu85tvcanal9/playlist.m3u8
+#EXTINF:0,Canal 8 Rosario
+https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
+#EXTINF:0,Canal 6 Digital HD
+https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
+#EXTINF:0,Canal 5 Santa F&#233;
+https://stream.arcast.com.ar/c5sf/c5sf/chunklist.m3u8
+#EXTINF:0,Canal 5 Del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:0,Canal 5 Tv
+https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/chunklist.m3u8
+#EXTINF:0,Canal 4 San Juan
+https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist.m3u8
+#EXTINF:0,Canal 3 Las Heras
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:0,Canal 3 Argentina
+https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
+#EXTINF:0,Bravo Tv HD
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream0/chunks.m3u8
+#EXTINF:0,Argentin&#237;sima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:0,Canal Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist.m3u8
+#EXTINF:0,Cosmos
+https://canaletaplus.com:3922/live/adminlive.m3u8
+#EXTINF:0,Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:0,Canal 12 Metro Tv
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:0,Misiones Cuatro
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/chunks.m3u8
+#EXTINF:0,Canal 37 Neox Tv
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+#EXTINF:0,Net Tv
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:0,NG Federal
+https://617c5175c970b.streamlock.net:4444/tvlink/live/chunklist.m3u8
+#EXTINF:0,Panc Tv
+https://panel.host-live.com:19360/20004/20004.m3u8
+#EXTINF:0,Qu&#225;ntica Tv
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:0,Sicardi Tv
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:0,Tele Cinco Trelew Tv Abierta
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:0,Tv Man&#225; Argentina
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/chunklist.m3u8
+#EXTINF:0,Solidaria Tv
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:0,UNLP Tv
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:0,Uni Teve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:0,Canal Once Tv Mexico
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/chunklist.m3u8
+#EXTINF:0,Xtrema Tv
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+#EXTINF:0,Tropi Xtrema Tv
+https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
+#EXTINF:0,Quilpu&#233; Online
+https://giatv.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/chunks.m3u8
+#EXTINF:0,Tele Tur
+https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+#EXTINF:0,M&#225;ss Musica Tv
+https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
+#EXTINF:0,Chamame Tv
+https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
+#EXTINF:0,Ritmo Universal
+https://stmv6.voxtvhd.com.br/ritmouniversal/ritmouniversal/playlist.m3u8
+#EXTINF:0,Tour Sport Tv
+https://vdo2.streamgato.us:3032/live/toursporttvlive.m3u8
+#EXTINF:0,ZN Noticias
+https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8
+#EXTINF:0,Television Del Este HD
+https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
+#EXTINF:0,Guaymate Tv HD
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/chunks.m3u8
+#EXTINF:0,Red
+https://edge8.pink.rs/redtv/chunklist.m3u8
+
+
