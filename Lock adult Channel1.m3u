@@ -1,59 +1,39 @@
 #EXTM3U 
-
 #EXTINF:-1,SkyBlue IPTV
 https://cdn.pixabay.com/video/2025/12/10/321012.mp4?
-
 #EXTINF:0 tvg-id="Xrusskaya-noch" tvg-name="Русская Ночь" tvg-logo="https://ip-tv.dev/epg/icon/russkaya-noch.png"  tvg-rec="5" timeshift="5", Русская Ночь
-
 http://gr.seetv.cc/play/132/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="Xredlight-hd" tvg-name="Redlight HD" tvg-logo="https://ip-tv.dev/images/ico/redlight-hd.png"  tvg-rec="5" timeshift="5", Redlight HD
-
 http://gr.seetv.cc/play/594/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="Xpenthouse-quickies" tvg-name="Penthouse Quickies HD" tvg-logo="https://ip-tv.dev/images/ico/penthouse-quickies.png" , Penthouse Quickies HD
-
 http://gr.seetv.cc/play/6881/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-name="ОХ-АХ HD" tvg-logo="https://ip-tv.dev/images/epg/1767.png?v1743763887" , ОХ-АХ HD
-
 http://gr.seetv.cc/play/1767/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="Xpenthouse-hd" tvg-name="Penthouse HD" tvg-logo="https://ip-tv.dev/images/ico/penthouse-hd.png"  tvg-rec="5" timeshift="5", Penthouse HD
-
 http://gr.seetv.cc/play/1497/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-name="Penthouse Reality TV" tvg-logo="https://ip-tv.dev/images/epg/8074.png?v1743763915" , Penthouse Reality TV
-
 http://gr.seetv.cc/play/8074/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="Xpenthouse-gold" tvg-name="Penthouse Gold HD" tvg-logo="https://ip-tv.dev/images/ico/penthouse-gold.png" , Penthouse Gold HD
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/6880/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-name="OLERO Babes" tvg-logo="https://ip-tv.dev/images/epg/1768.png?v1743763945" , OLERO Babes
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/1768/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="Xeromania4k" tvg-name="Eromania 4K" tvg-logo="https://ip-tv.dev/images/ico/eromania4k.png" , Eromania 4K
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/1703/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="XLIBERTYEROTIKAFHD" tvg-name="Liberty Эротика HD" tvg-logo="https://ip-tv.dev/images/ico/liberty/liberty-erotika.png" , Liberty Эротика HD
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/7080/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="Xbcu-charm" tvg-name="BCU Charm HD" tvg-logo="https://ip-tv.dev/images/ico/bcu-charm.png" , BCU Charm HD
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/7141/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="Xyosso-sexy" tvg-name="YOSSO TV SEXY" tvg-logo="https://ip-tv.dev/images/ico/yosso-sexy.png"  tvg-rec="5" timeshift="5", YOSSO TV SEXY
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/8774/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="X42052" tvg-name="KBC+100500 (18+)" tvg-logo="https://ip-tv.dev/images/ico/42052-65d5e628a395c.png"  tvg-rec="5" timeshift="5", KBC+100500 (18+)
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/8829/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-name="CineManExExEx" tvg-logo="https://ip-tv.dev/images/ico/CineManExExEx.png" , CineManExExEx
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/13020/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-name="CineManExExEx TWO" tvg-logo="https://ip-tv.dev/images/ico/CineManExExEx2.png" , CineManExExEx TWO
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/13021/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-name="Clarity4K Angel XXX" tvg-logo="https://ip-tv.dev/images/epg/4607.png?v1743764101" , Clarity4K Angel XXX
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/4607/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-name="Beate Uhse" tvg-logo="https://ip-tv.dev/images/epg/685.jpg?v1743764064" , Beate Uhse
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/685/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-name="TVPlay Наше XXX" tvg-logo="https://ip-tv.dev/images/epg/1769.png?v1743764127" , TVPlay Наше XXX
-#EXTGRP:Для взрослых
 http://gr.seetv.cc/play/1769/FB4F94DA00C3BE0/video.m3u8
