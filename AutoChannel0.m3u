@@ -1,12 +1,10 @@
 #EXTM3U 
 #EXTINF:-1,SkyBlue IPTV
 https://cdn.pixabay.com/video/2025/12/10/321012.mp4?
-#EXTM3U catchup="flussonic" url-tvg="https://ip-tv.dev/epg/epg.xml.gz"
-#EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал" tvg-logo="https://ip-tv.dev/images/ico/pervysd.png"  tvg-rec="5" timeshift="5", Первый канал
 
+#EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал" tvg-logo="https://ip-tv.dev/images/ico/pervysd.png"  tvg-rec="5" timeshift="5", Первый канал
 http://gr.seetv.cc/play/243/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал HD" tvg-logo="https://ip-tv.dev/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5", Первый канал HD
-
 http://gr.seetv.cc/play/73/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:0 tvg-id="Xpervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="https://ip-tv.dev/images/ico/pervy.png"  tvg-rec="5" timeshift="5", Первый канал Европа
 
